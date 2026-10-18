@@ -1,7 +1,7 @@
 # wlx_enterprise-architect
 
-![prev1](prev1.png)
-![prev2](prev2.png)
+![prev1](prev3.png)
+![prev2](prev4.png)
 
 Total Commander Lister plugin (WLX) for viewing UML diagrams stored in
 Sparx Enterprise Architect's SQLite-based project files (`.qea` / `.qeax`).
